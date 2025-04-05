@@ -6,10 +6,10 @@ url: 'https://je-pense.github.io/2145/'
 author:
   name: '阿甘'
   email: 'winwinsfu@gmail.com'
-  url: 'https://je-pense.github.io/2145/'
+  url: 'https://je-pense.github.io/'
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /2145 # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
